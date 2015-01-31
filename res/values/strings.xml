@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoHelper</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="discription">this is app for sending message in emergency , the app will send message to everyone in your helper list with your current location and current address when you shake the phone.</string>
+    <string name="howtouse"> first make your helper list,add numbers from contacts,log or messages.then type your message you like to send, save it ,start the emergency mode on clicking on the check mark, you done, exit the application ,and whenever you are in need, just shake the phone  until it vibrates.once you feel that you do not need to be in emergency mode just deactivate the application on clicking on the check mark. </string>
+    <string name="caution">In case if your phone is locked and in deep sleep, press power Button once and then shake the phone.</string>
+
+</resources>

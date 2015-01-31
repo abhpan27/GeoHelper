@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/contact"
+        android:title="Add From Contacts"/>
+    <item
+        android:id="@+id/log"
+        android:title="Add From Logs"/>
+    <item
+        android:id="@+id/msg"
+        android:title="Add from messages"/>
+    <item
+        android:id="@+id/manualy"
+        android:title="Add Manualy"/>
+
+</menu>
